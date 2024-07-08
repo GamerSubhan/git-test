@@ -1,0 +1,90 @@
+.attribution { font-size: 11px; text-align: center; margin-top: 5%;}
+
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body
+{
+    background-color: hsl(212, 45%, 89%);
+    align-items: center;
+}
+
+#qrBackground
+{
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    width: 350px;
+    height: 550px;
+    border-radius: 12px;
+    text-align: center;
+    align-items: center;
+    margin-top: 5%;
+}
+
+@media (max-width: 768px) {
+    #qrBackground
+    {
+        width: 289px;
+        height: 449px;
+        margin-top: 15%;
+    }
+
+    #qrImage
+    {
+        transform: scale(0.77);
+    }
+
+    #text1
+    {
+        transform: scale(0.8);
+        margin-bottom: -16vh;
+    }
+
+    #text2
+    {
+        font-size: 0.8em;
+        margin-bottom: -31vh;
+    }
+
+    .attribution
+    {
+        margin-top: 20%;
+    }
+ 
+}
+
+#qrImage
+{
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    margin-top: -27vh;
+    border-radius: 12px;
+}
+
+@font-face {
+    font-family: OutfitFont;
+    src: url("../font/Outfit-VariableFont_wght.ttf");
+}
+
+#text1
+{
+    font-family: OutfitFont;
+    position: absolute;
+    margin-top: 17%;
+    font-size: 1.6em;
+    font-weight: 700;
+}
+
+#text2
+{
+    font-family: OutfitFont;
+    position: absolute;
+    margin-top: 27%;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+}
