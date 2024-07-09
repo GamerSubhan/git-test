@@ -55,6 +55,24 @@ body
  
 }
 
+@media (min-height: 1080px)
+{
+    #qrImage
+    {
+        transform: scale(0.7);
+    }
+
+    #text1
+    {
+        transform: scale(0.7);
+    }
+
+    #text2
+    {
+        font-size: 0.7em;
+    }
+}
+
 #qrImage
 {
     display: flex;
@@ -62,7 +80,7 @@ body
     margin-left: auto;
     margin-right: auto;
     position: absolute;
-    margin-top: -25vh;
+    margin-top: -27vh;
     border-radius: 12px;
 }
 
@@ -75,8 +93,8 @@ body
 {
     font-family: OutfitFont;
     position: absolute;
-    margin-top: 18%;
-    font-size: 1.4em;
+    margin-top: 17%;
+    font-size: 1.6em;
     font-weight: 700;
 }
 
@@ -84,7 +102,7 @@ body
 {
     font-family: OutfitFont;
     position: absolute;
-    margin-top: 29%;
+    margin-top: 27%;
     font-weight: 400;
     color: hsl(220, 15%, 55%);
 }
