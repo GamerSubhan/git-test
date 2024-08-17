@@ -28,6 +28,7 @@ This web page with QR code. Which users can scan to visit Frontend Mentor websit
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Media Queries
 
 ## Author
 
