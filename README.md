@@ -14,8 +14,8 @@ This web page with QR code. Which users can scan to visit Frontend Mentor websit
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/GamerSubhan/git-test.git)
-- Live Site URL: [Add live site URL here](https://github.com/GamerSubhan/git-test)
+- Solution URL: [Solution](https://github.com/GamerSubhan/git-test.git)
+- Live Site URL: [Live Site](https://github.com/GamerSubhan/git-test)
 
 ## My process
 
@@ -31,5 +31,5 @@ This web page with QR code. Which users can scan to visit Frontend Mentor websit
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/GamerSubhan)
-- LinkedIn - [@yourusername](https://www.linkedin.com/in/subhan-atak/)
+- Frontend Mentor - [@GamerSubhan](https://www.frontendmentor.io/profile/GamerSubhan)
+- LinkedIn - [@Subhan Atakishiyev](https://www.linkedin.com/in/subhan-atak/)
