@@ -15,7 +15,7 @@ This web page with QR code. Which users can scan to visit Frontend Mentor websit
 ### Links
 
 - Solution URL: [Solution](https://github.com/GamerSubhan/git-test.git)
-- Live Site URL: [Live Site](https://github.com/GamerSubhan/git-test)
+- Live Site URL: [Live Site](https://gamersubhan.github.io/git-test/)
 
 ## My process
 
